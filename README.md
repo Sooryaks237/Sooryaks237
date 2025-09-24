@@ -46,7 +46,7 @@ I love creating **interactive dashboards**, performing **data cleaning & EDA**, 
 ---
 
 ## 🐍 Python Data Analysis Projects  
-- [🎬 **Amazon Prime EDA Project**](https://github.com/Sooryaks237/customer-eda) – Python (Pandas, Seaborn)  
+- [🎬 **Amazon Prime EDA Project**](https://github.com/Sooryaks237/amazon-prime-eda) – Python (Pandas, Seaborn)  
 - [📉 **Yes Bank Stock Closing Price Prediction (Time Series)**](https://github.com/Sooryaks237/sales-forecasting) – Python (Statsmodels, Matplotlib)  
 
 ---
