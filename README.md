@@ -38,9 +38,9 @@ I love creating **interactive dashboards**, performing **data cleaning & EDA**, 
 ---
 
 ## 📊 Business Intelligence & SQL Projects  
-- [📈 **Retail Sales Dashboard**](https://github.com/Sooryaks237/retail-dashboard) – Power BI, Excel  
+- [📈 **Retail Sales Dashboard**](https://github.com/Sooryaks237/retail-sales-dashboard) – Power BI 
 - [👥 **SQL Case Study – Customer Analytics**](https://github.com/Sooryaks237/sql-case-study) – MySQL  
-- [🎯 **Marketing Campaign Performance Dashboard**](https://github.com/Sooryaks237/marketing-dashboard) – Power BI, Excel  
+- [🎯 **Marketing Campaign Performance Dashboard**](https://github.com/Sooryaks237/marketing-dashboard) – Power BI
 - [💼 **HR Analytics Dashboard**](https://github.com/Sooryaks237/hr-dashboard) – Power BI  
 
 ---
