@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Soorya K S  
 
 ### 🚀 Aspiring Data Analyst | Business Intelligence  
-📍 Mumbai | 📧 sooryaks552@gmail.com | 📱 7034120552  
+📍 Mumbai | 📧 sooryaks552@gmail.com 
 
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-k-s-/) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Sooryaks237)  
